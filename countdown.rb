@@ -6,4 +6,3 @@
   end
 
   puts "HAPPY NEW YEAR!"
-
